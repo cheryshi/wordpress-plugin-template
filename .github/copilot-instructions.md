@@ -27,3 +27,19 @@ Before implementing a feature:
 3. Read TODO.md
 
 Only implement one feature at a time.
+
+Repository Stability Rules
+
+This repository is maintained incrementally.
+
+Never replace the existing architecture.
+
+Never regenerate the project from scratch.
+
+Never delete existing files unless explicitly instructed.
+
+Prefer extending existing code instead of rewriting it.
+
+Every change should be the smallest possible change that satisfies the requirement.
+
+Backwards compatibility is preferred whenever possible.
